@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerrerify",
+        "uuid": 8224796,
+        "checksum": "ucvjeh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
